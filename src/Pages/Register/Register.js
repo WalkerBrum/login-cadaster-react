@@ -50,7 +50,7 @@ export function Register() {
                 minHeight: "360px",
             }}>
             
-            <h2>Cadastra-se</h2>
+            <h2>Crie seu usuário</h2>
 
             <Container maxWidth="sm">
 
@@ -62,7 +62,7 @@ export function Register() {
 
                         <TextField 
                             error={!!formState.errors.name} {...register('name')} 
-                            label="Nome" variant="outlined" 
+                            label="Nome" variant="outlined"  
                             helperText={(formState.errors.name || {}).message} />
                         <TextField 
                             error={!!formState.errors.password} {...register('password')} 

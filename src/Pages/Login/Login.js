@@ -47,7 +47,7 @@ export function Login(){
                 minHeight: "360px",
             }}>
 
-            <h2>Entrar</h2>
+            <h2>Acesse sua conta</h2>
             
             <Container maxWidth="sm">
 
@@ -70,7 +70,7 @@ export function Login(){
                             color="success"
                             sx={{
                                 margin: "20px",
-                            }}>Cadastrar
+                            }}>Login
                         </Button>
                     </Stack>
 

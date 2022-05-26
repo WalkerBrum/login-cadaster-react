@@ -28,7 +28,7 @@ export function Access() {
                         type="link" variant="contained"
                         sx={{
                             margin: "10px",
-                            width: "100px",
+                            width: "150px",
                         }}>Entrar
                     </Button>
                     
@@ -38,8 +38,8 @@ export function Access() {
                         type="link" variant="contained"
                         sx={{
                             margin: "10px",
-                            width: "100px",
-                        }}>Cadastrar
+                            width: "150px",
+                        }}>Cadastrar-se
                     </Button>
                     
                 </CustomLink>
