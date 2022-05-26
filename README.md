@@ -46,6 +46,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## **Autor e Agradecimento**
-Eu Walker Lobato como desenvolvedor do projeto sou grato por poder participar desse desafio, pois é um grande oportunidade para o desenvolvimento das minhas hard skills, aprimorando os meus conhecimentos na construção de aplicações web.
+Eu Walker Lobato como desenvolvedor do projeto sou grato por poder participar desse desafio, pois foi um grande oportunidade para o desenvolvimento das minhas hard skills, aprimorando os meus conhecimentos na construção de aplicações web.
 
 
