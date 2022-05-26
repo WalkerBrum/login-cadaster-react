@@ -24,7 +24,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - React Router;
 - Material-UI;
 - Yup;
-- Axius;
+- Axios;
 
 <hr>
 
