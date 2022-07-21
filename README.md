@@ -30,7 +30,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## **Requerimentos**
 - Node.js;
-- npm ou yarm;
+- npm ou yarn;
 - Backend: [https://github.com/oneblueapp/testing_react_js/](https://github.com/oneblueapp/testing_react_js/)
 
 ## **Instalação**
