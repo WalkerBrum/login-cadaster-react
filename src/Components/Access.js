@@ -1,12 +1,13 @@
 import { Button } from '@mui/material';
 import { Link, useMatch, useResolvedPath } from 'react-router-dom';
 
+
 function CustomLink({ children, to, ...props }) {
     let resolved = useResolvedPath(to);
     let match = useMatch({ path: resolved.pathname, end: true });
-
+    
     return (
-        <Link className={match ? "active" : "button-link"}
+        <Link className={ match ? "active" : "button-link" }
         to={to}
         {...props}
         >
@@ -15,11 +16,10 @@ function CustomLink({ children, to, ...props }) {
     );
 }
 
-export function Access() {
-     return (
-        <header>
+export function Access( children, to, ...props ) {
 
-            <h1>Bem vindo a One Blue, acesse abaixo para fazer o seu login ou cadastro</h1>
+     return (
+        <div>
 
             <div className='flexHome'>
                     
@@ -43,7 +43,11 @@ export function Access() {
                     </Button>
                     
                 </CustomLink>
+
             </div>
-         </header>
+
+            
+            
+         </div>
      )
 }

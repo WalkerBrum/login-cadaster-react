@@ -6,8 +6,9 @@ import { Header } from './Components/Header';
 import { Footer } from './Components/Footer';
 import { Access } from './Components/Access';
 
-import { Login } from './Pages/Login/Login';
-import { Register } from './Pages/Register/Register';
+import { Home } from './Pages/Home';
+import { Login } from './Pages/Login';
+import { Register } from './Pages/Register';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Access />
 
         <Routes>
+          <Route path='/' element={<Home />}/>
           <Route path='/login' element={<Login />}/>
           <Route path='/user/cadaster' element={<Register/>}/>
         </Routes>

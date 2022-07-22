@@ -12,7 +12,7 @@ export function Footer() {
                     margin: "10px",
                     width: "100px",
                 }}>
-                <a href="https://github.com/WalkerBrum" title="github">
+                <a href="https://github.com/WalkerBrum/login-cadaster-react" target="_blank" rel="noreferrer" title="github">
                     Github
                 </a>
             </Button>
@@ -23,7 +23,7 @@ export function Footer() {
                     margin: "10px",
                     width: "100px",
                 }}>
-                <a href="https://www.linkedin.com/in/ulisses-malanski" title="linkedin">
+                <a href="https://www.linkedin.com/in/walkerlobato/" target="_blank" rel="noreferrer" title="linkedin">
                     Linkedin
                 </a>
             </Button>
