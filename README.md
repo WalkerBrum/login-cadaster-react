@@ -1,11 +1,4 @@
-# **oneBlue-testeReacJS** 
-
-<img src="https://i.imgur.com/BssBbbX.png" />
-<hr>
-
-> Teste Técnico para a Contratação de Desevolvedor Frontend na Empresa **OneBlue, Artyou Global & Stories App**. 
-
-<hr>
+# **Sistema Cadastro/Login** 
 
 ## **Descrição**
 Aplicação front-end para interação visual com a API de cadastro de usuário e login;
@@ -13,7 +6,7 @@ Aplicação front-end para interação visual com a API de cadastro de usuário 
 <hr>
 
 ## **Objetivos**
-- Criar aplicação com ReactJs utilizando Yup e Material-UI;
+- Criar aplicação com ReactJs utilizando Yup, Material-UI e useForm;
 - Tratativa de erros e validações;
 
 ## **Tecnologias**
@@ -22,6 +15,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - ReactJs;
 - React Hooks;
 - React Router;
+- React useForm;
 - Material-UI;
 - Yup;
 - Axios;
