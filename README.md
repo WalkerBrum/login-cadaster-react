@@ -5,6 +5,11 @@ Aplicação front-end para interação visual com a API de cadastro de usuário 
 
 <hr>
 
+## **Acessar Aplicação**
+[http://WalkerBrum.github.io/login-cadaster-react](http://WalkerBrum.github.io/login-cadaster-react)
+
+<hr>
+
 ## **Objetivos**
 - Criar aplicação com ReactJs utilizando Yup, Material-UI e useForm;
 - Tratativa de erros e validações;
@@ -31,12 +36,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 `npm install`
 
 ## **Clone do Projeto**
-`git clone https://github.com/WalkerBrum/oneBlue-testeReactJS.git`
+`git clone https://github.com/WalkerBrum/login-cadaster-react.git`
 
 # 📷 Demonstração da Aplicação
 
-<img src="page-login.png" title="Print screen da aplicação de login"/>
-<img src="page-register.png" title="Print screen da aplicação de cadastro"/>
+<img src="src/Images/page-home.png" title="Print screen da aplicação da home"/>
+<img src="src/Images/page-login.png" title="Print screen da aplicação de login"/>
+<img src="src/Images/page-cadaster.png" title="Print screen da aplicação de cadastro"/>
 
 
 ## **Autor e Agradecimento**
