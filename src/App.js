@@ -20,7 +20,7 @@ function App() {
         <Access />
 
         <Routes>
-          <Route path='/' element={<Home />}/>
+          <Route path='/login-cadaster-react' element={<Home />}/>
           <Route path='/login' element={<Login />}/>
           <Route path='/user/cadaster' element={<Register/>}/>
         </Routes>
