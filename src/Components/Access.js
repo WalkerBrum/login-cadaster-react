@@ -23,7 +23,7 @@ export function Access( children, to, ...props ) {
 
             <div className='flexHome'>
                     
-                <CustomLink to="/login">
+                <CustomLink to="/login-cadaster-react/login">
                     <Button 
                         type="link" variant="contained"
                         sx={{
@@ -33,7 +33,7 @@ export function Access( children, to, ...props ) {
                     </Button>
                     
                 </CustomLink>
-                <CustomLink to="user/cadaster">
+                <CustomLink to="login-cadaster-react/cadaster">
                     <Button 
                         type="link" variant="contained"
                         sx={{
